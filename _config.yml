@@ -1,5 +1,6 @@
 # Site wide configuration
-
+url: "https://jak18015.github.io"
+baseurl: ""  # no slash at the end
 title: Jacob Kellermeier, Ph.D.
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
