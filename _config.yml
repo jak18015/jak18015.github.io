@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Jacob Kellermeier, Ph.D.
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  name: Jacob Kellermeier
+  avatar: profile-picture.jpg
+  bio: "Postdoctoral Research Fellow in the Carruthers Lab at University of Michigan Medical School"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
+  linkedin: 'jacob-kellermeier-ph-d-b9ab26175'
+  github: 'jak18015'
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#FFCB05'
+lowlight-color: '#00274C'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
