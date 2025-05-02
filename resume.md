@@ -8,7 +8,7 @@ menutitle: Resume
 ## Current Position
 
 `2025-Present`
-Postdoctoral Research Fellow\
+Postdoctoral Fellow\
 Carruthers Lab\
 University of Michigan Medical School
 
