@@ -5,9 +5,15 @@ menutitle: Resume
 ---
 ## Currently
 
-Postdoctoral Research Fellow
+Postdoctoral Research Fellow\
+Carruthers Lab\
+University of Michigan Medical School
 
 ## Education
+
+`2018-2025`
+__University of Connecticut__\
+Doctor of Philosophy in Molecular and Cell Biology
 
 `2014-2018`
 __Indiana University__\
@@ -17,60 +23,37 @@ Bachelor of Science in Microbiology
 __Indiana University__\
 Bachelor of Science in Neuroscience
 
-`2018-2025`
-__University of Connecticut__\
-Doctor of Philosophy in Molecular and Cell Biology
-
+<!--
 ## Awards
 
 `2012`
 Name of Award, Organization 
-
+-->
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+`2024`
+<strong>Myosin F controls actin organization and dynamics</strong><br>
+<em>in Toxoplasma gondii</em><br>
+<strong>Jacob A. Kellermeier</strong>, Aoife T. Heaslip<br>
+<em>Molecular Biology of the Cell (MBoC)</em>
 
 
-## Presentations
+`2021`
+<strong>Actin and an unconventional myosin motor, TgMyoF,<br>
+control the organization and dynamics of the<br>
+endomembrane network in <em>Toxoplasma gondii</em></strong><br>
+Romain Carmeille, Marc-Jan Gubbels,<br>
+Porfirio Schiano Lomoriello, Parvathi M. Devarakonda,<br>
+<strong>Jacob A. Kellermeier</strong>, Aoife T. Heaslip<br>
+<em>PLoS Pathogens</em>
+
+
+<!-- ## Presentations
 
 `1994`
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+-->
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
