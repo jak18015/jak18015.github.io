@@ -1,0 +1,114 @@
+.
+├── _config.yml
+├── _data
+│   └── navigation.yml
+├── _includes
+│   ├── _author-bio.html
+│   ├── _browser-upgrade.html
+│   ├── _cvhead.html
+│   ├── _disqus_comments.html
+│   ├── _feed-footer.html
+│   ├── _footer.html
+│   ├── _head.html
+│   ├── _navigation.html
+│   ├── _open-graph.html
+│   ├── _scripts.html
+│   ├── _social-share.html
+│   └── _toc.html
+├── _layouts
+│   ├── home.html
+│   ├── page.html
+│   ├── post-index.html
+│   ├── post.html
+│   ├── presentation-post-index.html
+│   ├── resume.html
+│   └── slide.html
+├── _posts
+│   ├── 2016-07-22-example-presentation.md
+│   └── 2016-07-23-example-post.md
+├── _sass
+│   ├── coderay.scss
+│   ├── elements.scss
+│   ├── forms.scss
+│   ├── grid.scss
+│   ├── mixins.scss
+│   ├── normalize.scss
+│   ├── page.scss
+│   ├── print.scss
+│   ├── pygments.scss
+│   ├── resume.scss
+│   ├── site.scss
+│   ├── typography.scss
+│   ├── variables.scss
+│   └── vendor
+│       ├── font-awesome
+│       │   ├── _animated.scss
+│       │   ├── _bordered-pulled.scss
+│       │   ├── _core.scss
+│       │   ├── _fixed-width.scss
+│       │   ├── _icons.scss
+│       │   ├── _larger.scss
+│       │   ├── _list.scss
+│       │   ├── _mixins.scss
+│       │   ├── _path.scss
+│       │   ├── _rotated-flipped.scss
+│       │   ├── _stacked.scss
+│       │   ├── _variables.scss
+│       │   └── font-awesome.scss
+│       ├── google
+│       │   └── _fonts.scss
+│       └── magnific-popup
+│           ├── _settings.scss
+│           └── magnific-popup.scss
+├── .gitignore
+├── .gitmodules
+├── 404.md
+├── assets
+│   ├── css
+│   │   ├── academicons
+│   │   │   ├── css
+│   │   │   │   ├── academicons.css
+│   │   │   │   └── academicons.min.css
+│   │   │   └── fonts
+│   │   │       ├── academicons.eot
+│   │   │       ├── academicons.svg
+│   │   │       ├── academicons.ttf
+│   │   │       └── academicons.woff
+│   │   ├── cvmain.scss
+│   │   └── main.scss
+│   ├── fonts
+│   │   ├── fontawesome-webfont.eot
+│   │   ├── fontawesome-webfont.svg
+│   │   ├── fontawesome-webfont.ttf
+│   │   ├── fontawesome-webfont.woff
+│   │   ├── fontawesome-webfont.woff2
+│   │   └── FontAwesome.otf
+│   └── js
+│       ├── _main.js
+│       ├── plugins
+│       │   ├── jquery.fitvids.js
+│       │   └── jquery.magnific-popup.js
+│       ├── scripts.min.js
+│       └── vendor
+│           ├── html5shiv.min.js
+│           ├── jquery-1.9.1.min.js
+│           ├── modernizr-2.7.1.custom.min.js
+│           └── respond.min.js
+├── blog.md
+├── favicon.png
+├── Gemfile
+├── Gemfile.lock
+├── Gruntfile.js
+├── images
+│   ├── bio-photo.jpg
+│   ├── logo.png
+│   └── profile-picture.jpg
+├── index.md
+├── LICENSE
+├── presentations.md
+├── README.md
+├── resume.md
+├── reveal.js
+└── tree.txt
+
+21 directories, 91 files
