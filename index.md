@@ -4,13 +4,18 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
+<!--style="text-indent: 2em;"-->
+After completing my PhD studying the molecular mechanisms of actomyosin-based transport, organelle inheritance, and vesicle trafficking in the intracellular eukaryotic parasite <i>Toxoplasma gondii</i>, I now focus on how <i>T. gondii</i> manipulates host cell machinery to support its survival and replication.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My current research investigates how the parasite hijacks the host Endosomal Sorting Complex Required for Transport (ESCRT) to ingest macromolecules. To explore these processes, I use advanced imaging techniques—such as expansion microscopy and live-cell imaging alongside high-throughput screening to identify novel regulators. 
 
-## Current Interests and Projects:
+Beyond fundamental cell biology, I am also interested in discovering and developing therapeutics that target <i>T. gondii</i>, with the broader goal of revealing parasite vulnerabilities that can be leveraged for drug development.
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+
+## Current Interests and Projects
+
+- High-content imaging and automated analysis pipelines  
+- Expansion microscopy for nanoscale resolution  
+- Live-cell imaging of host–parasite interactions  
+- Identifying parasite-derived regulators of host ESCRT machinery  
+- Antiparasitic drug discovery and therapeutic development

@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Jacob Kellermeier
   avatar: profile-picture.jpg
-  bio: "Postdoctoral Research Fellow in the Carruthers Lab at the University of Michigan Medical School"
-  twitter: 'JKToxo'
+  bio: #"Postdoctoral Research Fellow in the Carruthers Lab at the University of Michigan Medical School"
+  twitter: #JKToxo
   linkedin: 'jacob-kellermeier-ph-d-b9ab26175'
   github: 'jak18015'
   orcid: '0000-0001-9211-7406'
-  bluesky: 'jakekeller.bsky.social'
+  bluesky: #jakekeller.bsky.social
   researchgate: #username
   mendeley: #username
   google:
