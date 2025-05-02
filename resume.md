@@ -1,9 +1,9 @@
 ---
+title: Curriculum Vitae
 layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-# Curriculum Vitae
 
 ## Current Position
 
