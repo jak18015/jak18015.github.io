@@ -5,17 +5,21 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Postdoctoral Research Fellow
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2014-2018`
+__Indiana University__\
+Bachelor of Science in Microbiology
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2014-2018`
+__Indiana University__\
+Bachelor of Science in Neuroscience
+
+`2018-2025`
+__University of Connecticut__\
+Doctor of Philosophy in Molecular and Cell Biology
 
 ## Awards
 
