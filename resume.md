@@ -3,10 +3,10 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## CV
+
 
 ## Current Position
-
+`2025-Present`
 Postdoctoral Research Fellow\
 Carruthers Lab\
 University of Michigan Medical School
