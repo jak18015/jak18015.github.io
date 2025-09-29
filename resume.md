@@ -59,11 +59,42 @@ Toxoplasma gondii.* \\
 Harnack House of the Max Planck Society \\
 Berlin, Germany.
 
+`2024`
+*Myosin F controls actin organization and dynamics in Toxoplasma gondii.* \\
+Graduate Research Seminar \\
+University of Connecticut \\
+Storrs, Connecticut, USA.
+
 `2023`
 *Myosin-mediated actin organization in Toxoplasma gondii.* \\
 Boston Area Parasitology Symposium \\
 Massachusetts Institute of Technology \\
 Cambridge, Massachusetts, USA.
+
+`2022`
+*Myosin-mediated actin organization in Toxoplasma gondii.* \\
+Graduate Research Seminar \\
+University of Connecticut \\
+Storrs, Connecticut, USA.
+
+`2022`
+*Toxoplasma gondii vesicular transport mechanisms.* \\
+Graduate Research Seminar \\
+University of Connecticut \\
+Storrs, Connecticut, USA.
+
+`2021`
+*Toxoplasma gondii vesicular transport mechanisms.* \\
+Graduate Recruitment Event \\
+University of Connecticut \\
+Storrs, Connecticut, USA.
+
+`2019`
+*Does Myosin F organize the actin cytoskeleton of Toxoplasma gondii?* \\
+Graduate Research Seminar \\
+University of Connecticut \\
+Storrs, Connecticut, USA.
+
 
 
 ## Posters
