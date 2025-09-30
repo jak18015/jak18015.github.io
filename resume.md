@@ -1,30 +1,47 @@
 ---
-title: Curriculum Vitae
+title: Jacob Kellermeier, Ph.D.
 layout: resume
 menuorder: 3
-menutitle: Curriculum Vitae
+menutitle: Resume
 ---
+## Professional Summary
+Molecular biologist with 7+ years’ experience integrating high-resolution imaging and CRISPR/Cas9 genome editing with quantitative image data analysis. Expert in confocal, live, and super-resolution microscopy, automation of data workflows in Python and R, and cross-functional scientific collaboration. Proven record in delivering actionable insights and accelerating innovative research.
 
-## Current Position
+## Key Skills
+- High-resolution live/fixed cell imaging (confocal, super-resolution, immunofluorescence)
+- Automated image analysis (ImageJ/FIJI, CellProfiler, custom Python/R pipelines)
+- CRISPR/Cas9 & molecular cloning
+- Data visualization, hypothesis testing, statistics
+- Experienced with Python, R, Excel, PowerPoint, Word
+- Team leadership, cross-functional communication
 
+## Professional Experience
 `2025-Present`
-Postdoctoral Fellow\
-Carruthers Lab\
-University of Michigan Medical School
+**Postdoctoral Fellow**
+
+Carruthers Lab, University of Michigan Medical School
+- Designed, developed, and optimized super resolution imaging methods like expansion microscopy to quantify subcellular phenotypes at the interface of apicomplexan parasites and mammalian cells.
+- Implemented Python-based data analysis solutions for large microscopy datasets, enabling reproducible, scalable quantitative analysis.
+- Collaborated with chemists and biochemists to accelerate therapeutic and biological project milestones.
+
+`2018-2025`
+**Graduate Researcher**
+
+Heaslip Lab, University of Connecticut
+
+- Utilized CRISPR/Cas9 genome editing and advanced imaging to uncover novel mechanisms in Toxoplasma gondii, resulting in a shift in understanding of how the actin cytoskeleton of T. gondii is controlled.
+- Authored 2 peer-reviewed publications.
+- Presented complex findings to interdisciplinary audiences at 1 international conference, 1 national conference, and 5 intra-departmental conferences.
 
 ## Education
 
-`2018-2025`
-__University of Connecticut__\
-Doctor of Philosophy in Molecular and Cell Biology
+`2025` __Ph.D. Molecular and Cell Biology__\
+University of Connecticut
 
-`2014-2018`
-__Indiana University__\
-Bachelor of Science in Microbiology
+`2018`
+__B.S. Microbiology; B.S. Neuroscience__\
+Indiana University
 
-`2014-2018`
-__Indiana University__\
-Bachelor of Science in Neuroscience
 
 <!--
 ## Awards
@@ -50,65 +67,15 @@ Porfirio Schiano Lomoriello, Parvathi M. Devarakonda,<br>
 <strong>Jacob A. Kellermeier</strong>, Aoife T. Heaslip<br>
 <em>PLoS Pathogens</em>
 
-## Presentations
 
-`2024`
-*Myosin F controls actin organization and dynamics in 
-Toxoplasma gondii.* \\
-17th International Congress on Toxoplasmosis \\
-Harnack House of the Max Planck Society \\
-Berlin, Germany.
-
-`2024`
-*Myosin F controls actin organization and dynamics in Toxoplasma gondii.* \\
-Graduate Research Seminar \\
-University of Connecticut \\
-Storrs, Connecticut, USA.
-
-`2023`
-*Myosin-mediated actin organization in Toxoplasma gondii.* \\
-Boston Area Parasitology Symposium \\
-Massachusetts Institute of Technology \\
-Cambridge, Massachusetts, USA.
-
-`2022`
-*Myosin-mediated actin organization in Toxoplasma gondii.* \\
-Graduate Research Seminar \\
-University of Connecticut \\
-Storrs, Connecticut, USA.
-
-`2022`
-*Toxoplasma gondii vesicular transport mechanisms.* \\
-Graduate Research Seminar \\
-University of Connecticut \\
-Storrs, Connecticut, USA.
-
-`2021`
-*Toxoplasma gondii vesicular transport mechanisms.* \\
-Graduate Recruitment Event \\
-University of Connecticut \\
-Storrs, Connecticut, USA.
-
-`2019`
-*Does Myosin F organize the actin cytoskeleton of Toxoplasma gondii?* \\
-Graduate Research Seminar \\
-University of Connecticut \\
-Storrs, Connecticut, USA.
+## Additional Experience
+__Teaching & Mentorship__
+- Taught four laboratory courses (Microbiology, Biology, Cell Biology, Biochemistry); developed and delivered lectures, managed lab logistics, and evaluated student performance.
+- Mentored 5+ undergraduates in research methods and data analysis.
 
 
 
-## Posters
 
-`2022`
-*Determining the mechanisms of F-actin and Myosin F-driven vesicle transport in Toxoplasma gondii.* \\
-Gordon Research Conference: 2022 Plant and Microbial Cytoskeleton. \\
-Proctor Academy, New Hampshire, USA. 
-
-`2019`
-*Identification of Secretory Pathway Proteins within Toxoplasma gondii using RNA-seq and CRISPR/Cas9.* \\
-Molecular Parasitology Meeting \\
-Marine Biological Laboratory \\
-Woods Hole, Massachusetts, USA
 
 <!-- ### Footer
 
