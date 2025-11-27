@@ -5,15 +5,15 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Professional Summary
-Molecular biologist with 7+ years’ experience integrating high-resolution imaging and CRISPR/Cas9 genome editing with quantitative image data analysis. Expert in confocal, live, and super-resolution microscopy, automation of data workflows in Python and R, and cross-functional scientific collaboration. Proven record in delivering actionable insights and accelerating innovative research.
+Molecular biologist with 7+ years’ experience integrating high-resolution imaging and CRISPR/Cas9 genome editing with quantitative image data analysis. Experienced with confocal, live, and super-resolution microscopy techniques, developing image analysis pipelines using ImageJ and CellProfiler, performing data analysis with Python and R, and collaborative science. Published record of delivering actionable insights and accelerating innovative research.
 
 ## Key Skills
 - High-resolution live/fixed cell imaging (confocal, super-resolution, immunofluorescence)
 - Automated image analysis (ImageJ/FIJI, CellProfiler, custom Python/R pipelines)
 - CRISPR/Cas9 & molecular cloning
-- Data visualization, hypothesis testing, statistics
-- Experienced with Python, R, Excel, PowerPoint, Word
-- Team leadership, cross-functional communication
+- Data visualization and statistical analysis
+- Experienced with Python, R, and Office products
+- Team leadership, collaborative communication
 
 ## Professional Experience
 `2025-Present`
@@ -21,8 +21,9 @@ Molecular biologist with 7+ years’ experience integrating high-resolution imag
 
 Carruthers Lab, University of Michigan Medical School
 - Designed, developed, and optimized super resolution imaging methods like expansion microscopy to quantify subcellular phenotypes at the interface of apicomplexan parasites and mammalian cells.
+- Performed CRISPR/Cas9 editing of human and parasite cell lines.
 - Implemented Python-based data analysis solutions for large microscopy datasets, enabling reproducible, scalable quantitative analysis.
-- Collaborated with chemists and biochemists to accelerate therapeutic and biological project milestones.
+- Collaborated with chemists and biochemists to accelerate drug development of anti-*Toxoplasma* therapeutics.
 
 `2018-2025`
 **Graduate Researcher**
