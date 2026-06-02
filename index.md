@@ -5,15 +5,11 @@ menutitle: Home
 menuorder: 1
 ---
 
-I am a researcher specializing in host-parasite interactions, advanced imaging, and computational data analysis. After completing my PhD studying how the molecular mechanisms of actin, myosin, and formin facilitate transport, organelle inheritance, and vesicle trafficking in the eukaryotic parasite *Toxoplasma gondii*, my work has shifted toward understanding how this global parasite manipulates host cell machinery to survive and replicate.
+I'm a cellular biologist who codes. I study how parasites manipulate host cells, using high-content imaging and nanoscale expansion microscopy to capture spatial detail that other approaches miss.
 
-Currently, my research focuses on investigating how *T. gondii* hijacks the host **Endosomal Sorting Complex Required for Transport (ESCRT)** to ingest macromolecules, alongside screening potential anti-*Toxoplasma* compounds for drug development. 
+I got into computation out of necessity. I needed to analyze live cell imaging data at a level of detail that existing tools couldn't provide, so I built my own. What started as a workaround has become one of my most valuable skills. I now collaborate on a published Python tool that uses deep learning to let researchers analyze their high-content imaging data by segmenting cells, annotating spatial phenotypes, and training their own models, all within a GUI. That work also extends to deploying automated workflows on HPC clusters to process datasets at a scale that simply wasn't feasible before.
 
-To explore these processes, I bridge cell biology and data science by leveraging:
-* **Advanced Imaging:** High-content imaging for high-throughput screening for novel regulators of ESCRT, expansion microscopy (ExM) for nanoscale resolution, and live-cell imaging to capture host-parasite dynamics.
-* **Computational Pipelines:** High-throughput screening, automated image analysis, and Python-driven workflows deployed on high-performance computing (HPC) clusters.
-
-Ultimately, my goal is to identify novel regulators of *T. gondii* across multiple life cycle stages and discover innovative therapeutic targets.
+I'm looking to bring that combination of bench experience and computational ability into high-throughput drug screening at an industry R&D team.
 
 ---
 
